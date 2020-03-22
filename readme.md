@@ -9,12 +9,12 @@ ___
 # Table of Contents
 
 1. [Cloud Infrastructure as Code](./cloud_infrastructure_as_code/README.MD)
-    1. [Amazon Web Services](./cloud_infrastructure_as_code/aws/README.MD)
-    1. [Google Cloud Platform](./cloud_infrastructure_as_code/google_cloud/README.MD)
-        1. [Kubernetes Cluster Challenge](./cloud_infrastructure_as_code/google_cloud/kubernetes_cluster_challenge/README.MD)
-        1. [Resource Management Challenge](./cloud_infrastructure_as_code/google_cloud/resource_management_challenge/README.MD)
-        1. [Security and IAM Challenge](./cloud_infrastructure_as_code/google_cloud/security_and_iam_challenge/README.MD)
-    1. [Microsoft Azure](./cloud_infrastructure_as_code/azure/README.MD)
+    1. [Amazon Web Services](./cloud_infrastructure_as_code/terraform/aws/README.MD)
+    1. [Google Cloud Platform](./cloud_infrastructure_as_code/terraform/google_cloud/README.MD)
+        1. [Kubernetes Cluster Challenge](./cloud_infrastructure_as_code/terraform/google_cloud/kubernetes_cluster_challenge/README.MD)
+        1. [Resource Management Challenge](./cloud_infrastructure_as_code/terraform/google_cloud/resource_management_challenge/README.MD)
+        1. [Security and IAM Challenge](./cloud_infrastructure_as_code/terraform/google_cloud/security_and_iam_challenge/README.MD)
+    1. [Microsoft Azure](./cloud_infrastructure_as_code/terraform/azure/README.MD)
 1. [Kubernetes](./kubernetes/README.MD)
     1. [Deploy a Microservice-based Application](./kubernetes/microservice_deployment/README.MD)
     1. [Deploy a ElasticSearch as a Stateful Set](./kubernetes/stateful_sets/README.MD)
