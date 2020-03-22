@@ -1,15 +1,7 @@
-# Google Cloud Platform - Infrastructure as Code Challenges!
-
-## Description
-Welcome to 
+# Terraform Infrastructure as Code Challenges!
 
 ## Stuff to Install
 In addition, there are a few tools you will want to download/install. Instructions included to install using [HomeBrew on MacOS](https://brew.sh)
-- [Google Cloud SDK](https://cloud.google.com/sdk) (The `gcloud` CLI tool)
-  - To install:
-    ```
-    brew cask install google-cloud-sdk
-    ```
 
 - [HashiCorp's Terraform](https://www.hashicorp.com/products/terraform)
   - To install:
