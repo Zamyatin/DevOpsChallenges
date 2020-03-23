@@ -35,10 +35,5 @@ In addition, there are a few tools you will want to download/install. Instructio
 
 ## Resources
 
-There are a number of resources availble to help you through this challenge:
-
 - Hashicorp's [Terraform Docs](https://www.terraform.io/docs/index.html)
 - [Terraform Up & Running Book](https://www.terraformupandrunning.com)
-- [Google Cloud SDK Docs](https://cloud.google.com/sdk#documentation)
-- [Google Terraform Provider Docs](https://www.terraform.io/docs/providers/google/index.html)
-- [Google Verified Terraform Modules](https://registry.terraform.io/browse/modules?provider=google&verified=true)

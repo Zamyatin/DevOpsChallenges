@@ -9,7 +9,7 @@ ___
 # Table of Contents
 
 1. [Cloud Infrastructure as Code](./cloud_infrastructure_as_code/README.MD)
-    1. [Terraform](./cloud_infrastructure_as_code/terraform/README.MD)
+    1. [Terraform - Setup Tools and Resources](./cloud_infrastructure_as_code/terraform/README.MD)
         1. [Amazon Web Services](./cloud_infrastructure_as_code/terraform/aws/README.MD)
         1. [Google Cloud Platform](./cloud_infrastructure_as_code/terraform/google_cloud/README.MD)
             1. [Kubernetes Cluster Challenge](./cloud_infrastructure_as_code/terraform/google_cloud/kubernetes_cluster_challenge/README.MD)
